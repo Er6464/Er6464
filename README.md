@@ -1,10 +1,4 @@
-    Go home
 
-© 2025 Dan Cranney
-Follow me
-|
-Buy Me a Coffee
-Support
 
 Make it easy for people using your products to support you or give donations.
 buymeacoffeeBuy Me a Coffee:
@@ -25,10 +19,9 @@ I’m a student who wants to become an engineer. I enjoy learning how things wor
                   </p>
                   
 
-                ### Socials
+
                 
                 <p align="left"> <a href="https://www.github.com/Er6464" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://discord.com/users/ft_0309" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
 
-### Badges
 
 <a href="https://github.com/Er6464" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er6464&langs_count=10&title_color=0891b2&text_color=84cc16&icon_color=0891b2&bg_color=365314&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
