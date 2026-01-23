@@ -10,7 +10,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student , maker
 ---------------
 
-I’m a student who wants to become an engineer. I enjoy learning how things work, fixing problems, and trying out ideas through hands-on projects. I’m still growing my skills, but I’m curious, practical, and always ready to learn more—whether it’s electronics, coding, or anything I can build or experiment with.
 
 *   🌍  I'm based in Bangkok
 *   ✉️  You can contact me at [myfish.work610291@gmail.com](mailto:myfish.work610291@gmail.com)
