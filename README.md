@@ -47,38 +47,3 @@
 <hr/>
 
 <section>
-
-<h2>projects</h2>
-
-<ul>
-  <li>line follower robot (in progress)</li>
-  <li>custom linux setup & workflow</li>
-  <li>basic game development (lua)</li>
-</ul>
-
-</section>
-
-<hr/>
-
-<section>
-
-<h2>stats</h2>
-
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true"/>
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true"/>
-</p>
-
-</section>
-
-<hr/>
-
-<section>
-
-<h2>contact</h2>
-
-<p>
-  <a href="mailto:myfish.work610291@gmail.com">myfish.work610291@gmail.com</a>
-</p>
-
-</section>
