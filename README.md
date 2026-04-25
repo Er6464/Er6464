@@ -23,7 +23,7 @@
 
 <ul>
   <li>based in bangkok, thailand</li>
-  <li>interested in electronics, embedded systems, and software</li>
+  <li>interested in electronics,software</li>
   <li>hands-on: build → test → improve</li>
   <li>learning through real projects</li>
 </ul>
@@ -37,7 +37,7 @@
 <h2>focus</h2>
 
 <ul>
-  <li>embedded systems</li>
+  <li>embedded </li>
   <li>linux & system tuning</li>
   <li>hardware / diy / prototyping</li>
 </ul>
