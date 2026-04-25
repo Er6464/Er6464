@@ -1,5 +1,19 @@
 <h1 align="center">FIRST</h1>
-<p align="center">student • maker • systems / electronics</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+</p>
+
+<p align="center">student • builder • embedded / linux</p>
 
 <hr/>
 
@@ -9,26 +23,10 @@
 
 <ul>
   <li>based in bangkok, thailand</li>
-  <li>focus on electronics, embedded systems, and software</li>
-  <li>hands-on: build, test, iterate</li>
-  <li>linux user (daily)</li>
+  <li>interested in electronics, embedded systems, and software</li>
+  <li>hands-on: build → test → improve</li>
+  <li>learning through real projects</li>
 </ul>
-
-</section>
-
-<hr/>
-
-<section>
-
-<h2>stack</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="32" alt="python"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="32" alt="c++"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="32" alt="arduino"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="32" alt="linux"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="32" alt="vscode"/>
-</p>
 
 </section>
 
@@ -41,7 +39,21 @@
 <ul>
   <li>embedded systems</li>
   <li>linux & system tuning</li>
-  <li>hardware / diy</li>
+  <li>hardware / diy / prototyping</li>
+</ul>
+
+</section>
+
+<hr/>
+
+<section>
+
+<h2>projects</h2>
+
+<ul>
+  <li>line follower robot (in progress)</li>
+  <li>custom linux setup & workflow</li>
+  <li>basic game development (lua)</li>
 </ul>
 
 </section>
