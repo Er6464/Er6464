@@ -1,4 +1,4 @@
-# 💫 About Me: Student Maker
+# 💫 About Me: Student, Maker
 
 ## 🌐 Socials
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Spirited_File_3673/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:myfish.work610291@gmail.com) 
