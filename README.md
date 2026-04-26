@@ -24,35 +24,6 @@
   <li>learning through real projects</li>
 </ul>
 
-</section>
-
-<hr/>
-
-<section>
-
-<h2>focus</h2>
-
-<ul>
-  <li>embedded systems</li>
-  <li>linux & system tuning</li>
-  <li>hardware / diy / prototyping</li>
-</ul>
-
-</section>
-
-<hr/>
-
-<section>
-
-<h2>projects</h2>
-
-<ul>
-  <li>line follower robot (in progress)</li>
-  <li>custom linux setup & workflow</li>
-  <li>basic game development (lua)</li>
-</ul>
-
-</section>
 
 <hr/>
 
