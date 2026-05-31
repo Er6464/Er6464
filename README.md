@@ -28,7 +28,7 @@
 <hr/>
 
 <section>
-## 📊 stats
+📊 stats
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Er6464&theme=default&layout=compact&hide_border=true"/>
 </p>
