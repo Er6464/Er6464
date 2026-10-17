@@ -7,8 +7,6 @@
 - 🛠️ Maker
 - 🎸 Amateur Musician
 - 📷 Photographer
-- ⚙️ Engineering Enthusiast
-- 💻 Passionate about programming and open-source
 
 ## 🛠️ Languages & Tools
 
