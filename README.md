@@ -20,10 +20,3 @@
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
-
-## 📚 Interests
-
-- 🐧 Linux
-- 🖨️ 3D Printing
-- 📷 Photography
-- 🎵 Music
